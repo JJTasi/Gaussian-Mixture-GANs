@@ -12,8 +12,3 @@ In this project, we implement Gaussian Mixture Generative Adversarial Networks f
 - Dataset:
 	- MNIST(28*28)
 	- copper foil image(90*90)
-
-
-# Gaussian-Mixture-GANs
-# Gaussian-Mixture-GANs
-# Gaussian-Mixture-GANs
